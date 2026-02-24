@@ -1,0 +1,20 @@
+.results-table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+.results-table th, .results-table td {
+  border: 1px solid #333;
+  padding: 8px;
+  text-align: center;
+}
+
+.results-table th {
+  background-color: #f2f2f2;
+}
+
+.summary-row {
+  background-color: #e6ffe6; 
+  font-weight: bold;
+}
